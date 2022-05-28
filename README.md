@@ -1,0 +1,1 @@
+# JAVA_SimplePattern_Questions_Solve
